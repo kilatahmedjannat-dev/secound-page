@@ -1,0 +1,42 @@
+body{background-image:; background-size: cover;}
+ul{
+    margin: auto;
+    padding: 10px;
+    text-align: right;
+}
+ul li{
+    display: inline-block;
+
+}
+ul li a{
+    color: aliceblue;
+    background-color: rgb(215, 15, 15);
+    padding: 7px 15px;
+    }
+.jannat{
+    background-color: brown;
+    padding: 30px;
+    font-size: 30px;
+    text-align: center;
+}
+
+form{
+    background-color: blueviolet;
+    font-size: 20px;
+    text-align: center;
+    padding: 80px;
+    border-radius: 30px;
+}
+*{
+    background-color: rgb(160, 199, 31);
+}
+div header h1{
+    background-color: blue;
+    padding: 10px;
+    text-align:center;
+    text-shadow: 100px;
+    
+}
+ol{
+    text-align: right;
+}
